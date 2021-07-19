@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_save_transaction">Saqlash</string>
+    <string name="text_ui_mode">Ko\'rinish rejimi</string>
+    <string name="text_total_income">Umumiy kirim</string>
+    <string name="text_total_expense">Umumiy chiqim</string>
+    <string name="text_total_balance">Balans</string>
+    <string name="text_recent_transactions">So\'ngi operatsiyalar</string>
+    <string name="text_view_all">Hammasini ko\'rish</string>
+    <string name="text_expense_when">Qachon</string>
+    <string name="text_expense_amount">Miqdori</string>
+    <string name="text_expense_transaction_type">Operatsiya tipi</string>
+    <string name="text_expense_tag">Belgi</string>
+    <string name="text_expense_note">Izoh</string>
+    <string name="text_expense_add_transaction">Saqlash</string>
+    <string name="success_expense_saved">Operasiya saqlandi</string>
+    <string name="success_transaction_delete">Operasiya o\'chirib yuborildi</string>
+    <string name="text_title">Sarlavha</string>
+    <string name="text_about">Biz haqimizda</string>
+    <string name="text_filter">Filtr</string>
+    <string name="text_edit">O\'zgartirish</string>
+    <string name="text_createdAt">Qo\'shildi</string>
+    <string name="text_share_as_text">Matn sifatida ulashish</string>
+    <string name="text_share_as_image">Rasm sifatida ulashish</string>
+    <string name="text_delete">O\'chirib yuborish</string>
+    <string name="text_share">Ulashish</string>
+    <string name="text_transaction_empty_title">Hali operasiyalar mavjud emas</string>
+    <string name="text_transaction_empty_desc">Siz bu yerda o\'z operasiyalaringizni ko\'rishingiz mumkin</string>
+</resources>

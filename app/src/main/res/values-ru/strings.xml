@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_save_transaction">Сохранить операцию</string>
+    <string name="text_ui_mode">Режим отображения</string>
+    <string name="text_total_income">Суммарный доход</string>
+    <string name="text_total_expense">Суммарный расход</string>
+    <string name="text_total_balance">Баланс</string>
+    <string name="text_recent_transactions">Последние операции</string>
+    <string name="text_view_all">Посмотреть все</string>
+    <string name="text_expense_when">Когда</string>
+    <string name="text_expense_amount">Количество</string>
+    <string name="text_expense_transaction_type">Тип операции</string>
+    <string name="text_expense_tag">Метка</string>
+    <string name="text_expense_note">Комментарий</string>
+    <string name="text_expense_add_transaction">Сохранить операцию</string>
+    <string name="success_expense_saved">Операция сохранена</string>
+    <string name="success_transaction_delete">Операция удалена успешно</string>
+    <string name="text_title">Заголовок</string>
+    <string name="text_about">О нас</string>
+    <string name="text_filter">Фильтр</string>
+    <string name="text_edit">Изменить</string>
+    <string name="text_createdAt">Создано</string>
+    <string name="text_share_as_text">Поделиться как текст</string>
+    <string name="text_share_as_image">Поделиться как изображение</string>
+    <string name="text_delete">Удалить</string>
+    <string name="text_share">Поделиться</string>
+    <string name="text_transaction_empty_title">Ещё нет операций</string>
+    <string name="text_transaction_empty_desc">Вы сможете увидеть здесь свою первую операцию</string>
+</resources>

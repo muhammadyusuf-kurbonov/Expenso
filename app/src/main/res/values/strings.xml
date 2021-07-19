@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Expenso</string>
+    <string name="app_name" translatable="false">Expenso</string>
     <string name="text_save_transaction">Save Transaction</string>
     <string name="text_ui_mode">UI Mode</string>
     <string name="text_total_income">Total Income</string>
@@ -13,7 +13,7 @@
     <string name="text_expense_tag">Tag</string>
     <string name="text_expense_note">Note</string>
     <string name="text_expense_add_transaction">Save Transaction</string>
-    <string name="text_expense_rupees">₹</string>
+    <string name="text_expense_rupees" translatable="false">₹</string>
     <string name="success_expense_saved">Transaction saved successfully</string>
     <string name="success_transaction_delete">Transaction deleted successfully!</string>
     <string name="text_title">Title</string>
@@ -23,18 +23,18 @@
     <string name="text_createdAt">Created At</string>
 
     <!--  About -->
-    <string name="text_about_license_title"><![CDATA[Attributions & License]]></string>
-    <string name="text_about_license">Licensed Under Apache 2.0 License</string>
-    <string name="text_about_visit_title">Visit</string>
-    <string name="text_about_visit_url"><u>https://github.com/Spikeysanju/Expenso</u></string>
-    <string name="text_app_version">v%s (%d)</string>
+    <string name="text_about_license_title" translatable="false"><![CDATA[Attributions & License]]></string>
+    <string name="text_about_license" translatable="false">Licensed Under Apache 2.0 License</string>
+    <string name="text_about_visit_title" translatable="false">Visit</string>
+    <string name="text_about_visit_url" translatable="false"><u>https://github.com/Spikeysanju/Expenso</u></string>
+    <string name="text_app_version" translatable="false">v%s (%d)</string>
     <string name="text_share_as_text">Share as Text</string>
     <string name="text_share_as_image">Share as Image</string>
     <string name="text_delete">Delete</string>
     <string name="text_share">Share</string>
 
     <!-- share transaction -->
-    <string name="share_message">\%s \nAmount: %s, \nTransaction-Type: %s, \nTag: %s, \nDate: %s, \nNote: %s, \nCreatedAt: %s \n\nVisit: https://github.com/Spikeysanju/Expenso</string>
+    <string name="share_message" translatable="false">\%s \nAmount: %s, \nTransaction-Type: %s, \nTag: %s, \nDate: %s, \nNote: %s, \nCreatedAt: %s \n\nVisit: https://github.com/Spikeysanju/Expenso</string>
     <string name="text_transaction_empty_title">No Transaction Yet!</string>
     <string name="text_transaction_empty_desc">After your first transaction you will be able to view it here</string>
 
